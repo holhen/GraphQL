@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GraphQL/static/css/main.70b10d0c.chunk.css",
+    "main.js": "/GraphQL/static/js/main.2d817eaa.chunk.js",
+    "main.js.map": "/GraphQL/static/js/main.2d817eaa.chunk.js.map",
+    "runtime~main.js": "/GraphQL/static/js/runtime~main.24b659e9.js",
+    "runtime~main.js.map": "/GraphQL/static/js/runtime~main.24b659e9.js.map",
+    "static/js/2.096c23b6.chunk.js": "/GraphQL/static/js/2.096c23b6.chunk.js",
+    "static/js/2.096c23b6.chunk.js.map": "/GraphQL/static/js/2.096c23b6.chunk.js.map",
+    "index.html": "/GraphQL/index.html",
+    "precache-manifest.7c452f90e50ce47342ce55abfbbfefc0.js": "/GraphQL/precache-manifest.7c452f90e50ce47342ce55abfbbfefc0.js",
+    "service-worker.js": "/GraphQL/service-worker.js",
+    "static/css/main.70b10d0c.chunk.css.map": "/GraphQL/static/css/main.70b10d0c.chunk.css.map"
+  }
+}
