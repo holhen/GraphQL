@@ -7,7 +7,7 @@ const cors = require("cors")
 const app = express();
 app.use(cors())
 
-mongoose.connect("mongodb+srv://holhen:LdXc6LEROHcN@cluster0-vpdjk.mongodb.net/test?retryWrites=true&w=majority", {useNewUrlParser: true})
+mongoose.connect("mongodb+srv://holhen:LdXc6LEROHcN@cluster0-vpdjk.mongodb.net/books?retryWrites=true&w=majority", {useNewUrlParser: true})
 mongoose.connection.once("open", () => {
     console.log("connected to database")
 })
