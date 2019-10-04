@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "apollo-boost": "^0.4.4",
+    "gh-pages": "^2.1.1",
     "graphql": "^14.5.3",
     "react": "^16.9.0",
     "react-apollo": "^3.0.1",
@@ -12,6 +13,8 @@
     "recompose": "^0.30.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -31,5 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://holhen.github.io/GraphQL"
 }
