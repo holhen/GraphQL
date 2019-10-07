@@ -3,3 +3,5 @@
 # Built with
  - React
  - GraphQL
+ - MongoDB
+ - NodeJS
